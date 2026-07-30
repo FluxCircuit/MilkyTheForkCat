@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "68c14b56a6b20a21",
-  "mutation_count": 27,
+  "dna_hash": "b2e41a5fad269cfc",
+  "mutation_count": 28,
   "birth_timestamp": 359084,
   "traits": {
     "body_color": {
@@ -11,9 +11,9 @@
       "gene_sequence": "0d83b1e8"
     },
     "face_expression": {
-      "value": "neutral",
+      "value": "curious",
       "rarity": "common",
-      "gene_sequence": "374db983"
+      "gene_sequence": "7d0bf056"
     },
     "accessory": {
       "value": "diamond_chain",
