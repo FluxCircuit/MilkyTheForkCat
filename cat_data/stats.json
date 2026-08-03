@@ -1,9 +1,9 @@
 {
-  "dna_hash": "b2e41a5fad269cfc",
+  "dna_hash": "35c33c04dba227ed",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 29,
-  "rarity_score": 28.333333333333332,
+  "mutation_count": 30,
+  "rarity_score": 20.0,
   "parent_id": null,
   "traits": {
     "body_color": {
@@ -15,8 +15,8 @@
       "rarity": "common"
     },
     "accessory": {
-      "value": "diamond_chain",
-      "rarity": "legendary"
+      "value": "laser_eyes",
+      "rarity": "rare"
     },
     "pattern": {
       "value": "swirls",
@@ -31,5 +31,5 @@
       "rarity": "common"
     }
   },
-  "last_updated": "2026-08-02T02:09:19.299501"
+  "last_updated": "2026-08-03T02:11:20.794672"
 }
