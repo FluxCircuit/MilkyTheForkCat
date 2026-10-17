@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "4a7949cd3a763d12",
-  "dna_hash": "5b63a403a2fb0a55",
-  "mutation_count": 30,
+  "dna_hash": "b06f72deed77fd30",
+  "mutation_count": 31,
   "birth_timestamp": 271113,
   "traits": {
     "body_color": {
@@ -21,9 +21,9 @@
       "gene_sequence": "8f67e8db"
     },
     "pattern": {
-      "value": "lightning",
+      "value": "fractals",
       "rarity": "rare",
-      "gene_sequence": "1aa0a4dd"
+      "gene_sequence": "0021f769"
     },
     "background": {
       "value": "blue_sky",
