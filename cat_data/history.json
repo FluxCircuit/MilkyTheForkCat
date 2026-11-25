@@ -6015,6 +6015,22 @@
         "special": "sparkles"
       },
       "story": "Your cat rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-11-25T07:26:18.132328",
+      "dna_hash": "0105a1cc0ad4efc2",
+      "generation": 2,
+      "mutation_count": 59,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "excited",
+        "accessory": "none",
+        "pattern": "stars",
+        "background": "blue_sky",
+        "special": "particles"
+      },
+      "story": "Your cat evolved! Changes: special: sparkles \u2192 particles"
     }
   ]
 }
